@@ -1,22 +1,22 @@
-Net ID,How many younger siblings do you have?,How many older siblings do you have?,How would you rank your overall wellbeing right now on a scale from 1-10?,Rank these factors in terms of how much they're affecting your current wellbeing. - Lack of sleep/bad quality of sleep,Rank these factors in terms of how much they're affecting your current wellbeing. - excessive academic workload,Rank these factors in terms of how much they're affecting your current wellbeing. - imbalance in nutrition,Rank these factors in terms of how much they're affecting your current wellbeing. - lack of physical exercise,Rank these factors in terms of how much they're affecting your current wellbeing. - dehydration,Rank these factors in terms of how much they're affecting your current wellbeing. - caffeine intake,Rank these factors in terms of how much they're affecting your current wellbeing. - overall mental stress,What do you think is the optimum amount of sleep for a college student? (hours),How many hours on average do you sleep a day?,Do you have difficulty falling asleep?,How many hours do you spend doing work a day?,"How would you describe your current workload (1=very low, 10 = very high)",How many meals a day do you have on average?,How many servings of vegetables do you have each day on average? (1 serving = around 1 dish of vegetables),How many servings of fruit do you have each day on average? (1 serving= 1 fruit or around 80g),How often do you eat fast food or unhealthy meals?,How many hours of exercise do you do in a week?,How much water do you think you should drink daily? (in liters),How much water do  you drink in a day? (1 liter is about 4 cups),"Do you drink tea,coffee, energy drinks, or soda?",How many caffeinated drinks do you drink in a day on average?,Use the slider to answer the following questions - How much does family situation negatively affect your wellbeing?,Use the slider to answer the following questions - How much do financial difficulties negatively affect your wellbeing?,Use the slider to answer the following questions - How much does fulfilling other responsibilities negatively affect your wellbeing?,Have you experienced or seen bullying at DKU?,Are you currently diagnosed with a mental health disorder?,[OPTIONAL] Which diagnosis
-hcc18,2,0,4,5,2,3,4,6,7,1,9,7,Yes,8,6,3,1,1,Once a day,0,2,1,no,,4,3,5,No,,
-na202,2,0,7,2,1,4,5,3,7,6,8,6.5,No,5,7,3,1,0,More than once a day,7,4+,1,no,,,,5,No,,
-ick8,1,1,7,2,1,5,4,6,7,3,8,6.5,No,6,6,2,2,1,Once or twice a month,0,2,1,yes,1,8,,6,Yes,Anxiety,
-xl368,1,0,8,1,3,5,6,4,7,2,8,7,Sometimes,8,8,2,1,1,Once a week,4,2,1,yes,1,9,8,8,Maybe,Other,N/A
-zg95,1,0,6,1,4,5,3,6,7,2,8,8,Sometimes,2,3,2,2,1,Once a week,0.5,3,2,no,,7,5,6,No,,
-zc198,0,1,4,4,1,5,2,6,7,3,8,3,Sometimes,7,8,3,2,1,More than once a day,3,3,2,yes,3,7,2,8,Yes,Anxiety,
-sd505,0,1,6,2,3,4,7,5,6,1,7,34,Yes,14,10,3,0,1,More than once a day,8,4+,2,yes,1,4,6,9,No,,
-hg141,0,0,7,1,3,5,4,2,7,6,8,7,No,5,7,2,2,2,Once a week,5,4+,4+,yes,1,8,8,3,Maybe,Anxiety,
-jy332,0,0,6,2,1,6,3,7,5,4,8,7,Sometimes,12,8,3,3,3,Once or twice a month,5,2,2,yes,1,0,,1,No,Other,No
-cc823,0,0,7,3,2,4,6,7,5,1,7,6,Sometimes,12,8,3,2,1,Once a week,5,2,2,yes,1,5,2,7,No,Other,
-hp147,0,0,9,1,2,5,3,6,7,4,8,6,Sometimes,9,8,3,2,0,Once or twice a month,6,3,2,no,,,,2,No,Anxiety,
-rk326,0,0,9,3,1,6,4,5,7,2,7,7,No,12,9,3,2,2,Once or twice a month,3,2,2,yes,2,9,9,5,No,,
-wg87,0,0,5,3,1,7,4,6,5,2,9,7,No,9,9,3,3,0,Once a week,0,2,1,yes,1,5,5,8,No,,
-Yuxiang Lin,0,0,7,3,2,4,5,6,7,1,8,7,Yes,8,7,3,1,0,Once a week,6,3,2,yes,1,,,9,No,,
-rrb53,1,1,7,1,5,2,4,6,3,7,6,4,Sometimes,7,,3,2,1,Once a week,2,2,1,yes,2,,,,No,,
-rdd33,0,0,7,3,2,4,6,5,7,1,8,4,Yes,12,8,2,1,0,Once a week,4,3,1,yes,1,8,9,7,No,Anxiety,
-aam142,1,1,6,3,4,1,2,6,7,5,8,6,Yes,5,5,2,1,0,Once a day,3,4+,1,yes,1,1,2,2,Yes,,
-hqn4,1,0,8,6,2,3,5,4,7,1,7.5,7.5,No,10,8,3,3,1,Once or twice a month,12,2,2,no,,2,7,7,Yes,Other,N/A
-lnw29,1,1,3,4,5,2,3,6,7,1,8,7,Yes,3,2,2,3,2,Once or twice a month,6,3,3,no,,6,2,3,Maybe,Anxiety,
-mb748,1,0,1,3,2,4,6,5,7,1,10,8,Yes,5,9,1,0,0,Once a day,0,2,1,no,,9,9,9,Yes,Depression,
-tvr6,0,3,7,5,4,1,2,6,7,3,8,8,Sometimes,4,3,3,1,0,Once a week,2,3,2,yes,1,0,1,5,No,Other,N/A
+How many younger siblings do you have?,How many older siblings do you have?,How would you rank your overall wellbeing right now on a scale from 1-10?,Rank these factors in terms of how much they're affecting your current wellbeing. - Lack of sleep/bad quality of sleep,Rank these factors in terms of how much they're affecting your current wellbeing. - excessive academic workload,Rank these factors in terms of how much they're affecting your current wellbeing. - imbalance in nutrition,Rank these factors in terms of how much they're affecting your current wellbeing. - lack of physical exercise,Rank these factors in terms of how much they're affecting your current wellbeing. - dehydration,Rank these factors in terms of how much they're affecting your current wellbeing. - caffeine intake,Rank these factors in terms of how much they're affecting your current wellbeing. - overall mental stress,What do you think is the optimum amount of sleep for a college student? (hours),How many hours on average do you sleep a day?,Do you have difficulty falling asleep?,How many hours do you spend doing work a day?,"How would you describe your current workload (1=very low, 10 = very high)",How many meals a day do you have on average?,How many servings of vegetables do you have each day on average? (1 serving = around 1 dish of vegetables),How many servings of fruit do you have each day on average? (1 serving= 1 fruit or around 80g),How often do you eat fast food or unhealthy meals?,How many hours of exercise do you do in a week?,How much water do you think you should drink daily? (in liters),How much water do  you drink in a day? (1 liter is about 4 cups),"Do you drink tea,coffee, energy drinks, or soda?",How many caffeinated drinks do you drink in a day on average?,Use the slider to answer the following questions - How much does family situation negatively affect your wellbeing?,Use the slider to answer the following questions - How much do financial difficulties negatively affect your wellbeing?,Use the slider to answer the following questions - How much does fulfilling other responsibilities negatively affect your wellbeing?,Have you experienced or seen bullying at DKU?,Are you currently diagnosed with a mental health disorder?,[OPTIONAL] Which diagnosis
+2,0,4,5,2,3,4,6,7,1,9,7,Yes,8,6,3,1,1,Once a day,0,2,1,no,,4,3,5,No,,
+2,0,7,2,1,4,5,3,7,6,8,6.5,No,5,7,3,1,0,More than once a day,7,4+,1,no,,,,5,No,,
+1,1,7,2,1,5,4,6,7,3,8,6.5,No,6,6,2,2,1,Once or twice a month,0,2,1,yes,1,8,,6,Yes,Anxiety,
+1,0,8,1,3,5,6,4,7,2,8,7,Sometimes,8,8,2,1,1,Once a week,4,2,1,yes,1,9,8,8,Maybe,Other,N/A
+1,0,6,1,4,5,3,6,7,2,8,8,Sometimes,2,3,2,2,1,Once a week,0.5,3,2,no,,7,5,6,No,,
+0,1,4,4,1,5,2,6,7,3,8,3,Sometimes,7,8,3,2,1,More than once a day,3,3,2,yes,3,7,2,8,Yes,Anxiety,
+0,1,6,2,3,4,7,5,6,1,7,34,Yes,14,10,3,0,1,More than once a day,8,4+,2,yes,1,4,6,9,No,,
+0,0,7,1,3,5,4,2,7,6,8,7,No,5,7,2,2,2,Once a week,5,4+,4+,yes,1,8,8,3,Maybe,Anxiety,
+0,0,6,2,1,6,3,7,5,4,8,7,Sometimes,12,8,3,3,3,Once or twice a month,5,2,2,yes,1,0,,1,No,Other,No
+0,0,7,3,2,4,6,7,5,1,7,6,Sometimes,12,8,3,2,1,Once a week,5,2,2,yes,1,5,2,7,No,Other,
+0,0,9,1,2,5,3,6,7,4,8,6,Sometimes,9,8,3,2,0,Once or twice a month,6,3,2,no,,,,2,No,Anxiety,
+0,0,9,3,1,6,4,5,7,2,7,7,No,12,9,3,2,2,Once or twice a month,3,2,2,yes,2,9,9,5,No,,
+0,0,5,3,1,7,4,6,5,2,9,7,No,9,9,3,3,0,Once a week,0,2,1,yes,1,5,5,8,No,,
+0,0,7,3,2,4,5,6,7,1,8,7,Yes,8,7,3,1,0,Once a week,6,3,2,yes,1,,,9,No,,
+1,1,7,1,5,2,4,6,3,7,6,4,Sometimes,7,,3,2,1,Once a week,2,2,1,yes,2,,,,No,,
+0,0,7,3,2,4,6,5,7,1,8,4,Yes,12,8,2,1,0,Once a week,4,3,1,yes,1,8,9,7,No,Anxiety,
+1,1,6,3,4,1,2,6,7,5,8,6,Yes,5,5,2,1,0,Once a day,3,4+,1,yes,1,1,2,2,Yes,,
+1,0,8,6,2,3,5,4,7,1,7.5,7.5,No,10,8,3,3,1,Once or twice a month,12,2,2,no,,2,7,7,Yes,Other,N/A
+1,1,3,4,5,2,3,6,7,1,8,7,Yes,3,2,2,3,2,Once or twice a month,6,3,3,no,,6,2,3,Maybe,Anxiety,
+1,0,1,3,2,4,6,5,7,1,10,8,Yes,5,9,1,0,0,Once a day,0,2,1,no,,9,9,9,Yes,Depression,
+0,3,7,5,4,1,2,6,7,3,8,8,Sometimes,4,3,3,1,0,Once a week,2,3,2,yes,1,0,1,5,No,Other,N/A
